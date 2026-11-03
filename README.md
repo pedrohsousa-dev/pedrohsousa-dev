@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! Eu sou Pedro Henrique 👋
 
-<!--
-**pedrohsousa-dev/pedrohsousa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação.
 
-Here are some ideas to get you started:
+💻 Sou desenvolvedor em formação, buscando aprimorar meus conhecimentos em programação e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Estou em busca da minha primeira oportunidade de estágio na área de Tecnologia da Informação.
+
+## 📚 Atualmente estou estudando
+
+- Lógica de programação
+- Linguagem C
+- Java
+- HTML e CSS
+- Banco de Dados
+
+## 🎯 Meus objetivos
+
+- Desenvolver projetos práticos para fortalecer meus conhecimentos.
+- Aprender novas tecnologias e boas práticas de programação.
+- Conquistar minha primeira oportunidade profissional na área de TI.
+
+## 📫 Contato
+
+- LinkedIn: (https://www.linkedin.com/in/pedro-henrique-931ba728b/)
